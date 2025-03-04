@@ -1,1 +1,18 @@
-wdwdwdwdwwwwwwwwwwwwwwwwwww
+{
+  "name": "LiquidityLock",
+  "symbol": "LIQLOCK",
+  "description": "The Solana Donation Token",
+  "image": "https://logodix.com/logo/1724289.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://logodix.com/logo/1724289.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": null
+  },
+  "supply": "1000000000"
+}
